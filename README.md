@@ -4,13 +4,13 @@
 
 ## 🎓 Education
 
-**Hanoi University of Science and Technology (HUST)**, Hanoi, Vietnam  
+**Hanoi University of Science and Technology (HUST)**
 *August 2017 – August 2021*  
 Bachelor in Computer Science  
 
 ## 💼 Experience
 
-#### 👨‍💼 Team Leader
+### 👨‍💼 Team Leader
 *MISA JSC - [misa.vn](https://amis.misa.vn/)*  
 *December 2024 - May 2025*  
 
@@ -18,28 +18,28 @@ Bachelor in Computer Science
 - Built local LLMs, automated data generation and evaluation tools, and domain experts (Accounting, Finance Analysis)
 - Focus:  LLM fine-tuning and alignment, safety alignment, RAG, agent and multi-agent chatbots.
 
-#### 🧠 AI Engineer
+### 🧠 AI Engineer
 *MISA JSC - [misa.vn](https://amis.misa.vn/)*  
 *April 2024 - December 2024*  
 
 - Developed Legal document Q&A chatbot (search accuracy >95%, answer accuracy >90% accuracy on 1000+ expert-curated real-world questions, 1000+ documents each 3-300 pages long)
 - Focus: Rasa, databases, chunking, RAG, text2sql, LLMs.
 
-#### 🔬 AI Resident
+### 🔬 AI Resident
 *VinAI Research - [vinai.io](https://www.vinai.io/)*  
 *March 2022 - April 2024*
 
 - Supervisor: [Asst. Prof. Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/)
 - Research Topic: Weakly supervised learning, Information Extraction
 
-#### 🎓 Research Student
+### 🎓 Research Student
 *Data Science Laboratory (DSLab), HUST*  
 *August 2020 - March 2022*  
 
 - Supervisor: [Dr. Kiem-Hieu Nguyen](https://soict.hust.edu.vn/ts-nguyen-kiem-hieu.html)
 - Research Topic: Weakly supervised learning
 
-#### 💡 NLP Research Intern
+### 💡 NLP Research Intern
 *VCcorp - [vccorp.vn](https://vccorp.vn/)*  
 *July - November 2020*  
 
@@ -70,7 +70,7 @@ Bachelor in Computer Science
 
 ## 🚀Side Projects
 
-#### 🤖 PhoGPT: Generative Pre-training for Vietnamese
+### 🤖 PhoGPT: Generative Pre-training for Vietnamese
 *VinAI Research*  
 *March - August 2023*  
 
