@@ -12,7 +12,7 @@ PhD in Data Science & AI (upcoming)
 
 ### 👨‍💼 Team Leader
 *MISA JSC - [misa.vn](https://amis.misa.vn/)*  
-*December 2024 - May 2025*  
+*January 2025 - May 2025*  
 
 - Built top-ranked Vietnamese LLMs ([VMLU](https://vmlu.ai/leaderboard) #1 as of March 25, 2025; government-organized national top 5)
 - Built local LLMs, automated data generation and evaluation tools, and domain experts (Accounting, Finance Analysis)
