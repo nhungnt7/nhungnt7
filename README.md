@@ -4,9 +4,9 @@
 
 ## 🎓 Education
 
-**Hanoi University of Science and Technology (HUST)**
-*August 2017 – August 2021*  
-Bachelor in Computer Science  
+*Monash University*  
+*Starting May 2025*  
+PhD in Data Science & AI (upcoming)
 
 ## 💼 Experience
 
