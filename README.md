@@ -32,19 +32,6 @@ Bachelor in Computer Science
 - Supervisor: [Asst. Prof. Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/)
 - Research Topic: Weakly supervised learning, Information Extraction
 
-### 🎓 Research Student
-*Data Science Laboratory (DSLab), HUST*  
-*August 2020 - March 2022*  
-
-- Supervisor: [Dr. Kiem-Hieu Nguyen](https://soict.hust.edu.vn/ts-nguyen-kiem-hieu.html)
-- Research Topic: Weakly supervised learning
-
-### 💡 NLP Research Intern
-*VCcorp - [vccorp.vn](https://vccorp.vn/)*  
-*July - November 2020*  
-
-- Research Topic: Recommendation System
-
 ## 📝 Publications
 
 - **SharpSeq: Empowering Continual Event Detection through Sharpness-Aware Sequential-task Learning**  
@@ -62,11 +49,6 @@ Bachelor in Computer Science
 - **An Uncertainty-aware encoder for Aspect Detection**  
   ***Thi-Nhung Nguyen**, Kiem-Hieu Nguyen, Young-In Song, Tuan-Dung Cao*  
   Findings of the Association for Computational Linguistics: EMNLP 2021
-
-<!-- ## Preprints
-
-- **Unboxing Implicit Knowledge from LLMs: Constructing Knowledge Graphs for Opinion Summarization** (2024)  
-  ***Thi-Nhung Nguyen***, Hoang Ngo*, Kiem-Hieu Nguyen, Thien Huu Nguyen, Dat Quoc Nguyen* -->
 
 ## 🚀Side Projects
 
@@ -92,27 +74,6 @@ Bachelor in Computer Science
 
 - Lecturer: [Dr. Kiem-Hieu Nguyen](https://users.soict.hust.edu.vn/hieunk/)
 - Master's Course: Web mining and Graph analytics
-
-### 🏆 Quy Nhon AI Challenge
-*2022*  
-*Topic: Sentiment Analysis*
-
-- Participants: **Thi-Nhung Nguyen**, Hoang Ngo
-- Results: Ranked top 6 on the leaderboard
-
-## 🏅 Honors and Awards
-
-#### 🌟 Best Thesis Presentation Award
-*Department of Computer Science, HUST*  
-*August 2021*
-
-Award for the Best Thesis Presentation defense 2021.
-
-#### 🎖️ Microsoft youthspark scholarship
-*Microsoft Vietnam x Center for Education and Development (CED)*  
-*2017 & 2018*
-
-Scholarships for 80 Vietnamese female students with exceptional academics, leadership potential, and a passion for innovation in science.
 
 ## 🛠️ Technical Skills
 
