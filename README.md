@@ -59,22 +59,6 @@ Bachelor in Computer Science
 - Supervisor: [Dr. Dat Quoc Nguyen](https://datquocnguyen.github.io/)
 - Research Topic: LLM from scratch, Crawling, Ranking models, LLMs
 
-## 👨‍🏫 Other Activities
-
-#### 📚 Teaching Assistant
-*VinUniversity - [vinuni.edu](https://vinuni.edu.vn/)*  
-*February 2024 - June 2024*  
-
-- Lecturer: [Prof. Wray Buntine](https://vinuni.edu.vn/people/wray-buntine-phd/)
-- Course: Natural Language Processing
-
-#### 📚 Teaching Assistant
-*Hanoi University of Science and Technology (HUST)*  
-*Summer 2021*  
-
-- Lecturer: [Dr. Kiem-Hieu Nguyen](https://users.soict.hust.edu.vn/hieunk/)
-- Master's Course: Web mining and Graph analytics
-
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Python, SQL
