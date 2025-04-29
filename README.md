@@ -1,6 +1,6 @@
 # Nhung Thi Nguyen
 
-📧 [Email](mailto:nguyennhung0799@gmail.com,nhung.thinguyen@monash.edu) | 🌐 [Personal Website](https://nhungnt7.github.io/) | 💻 [GitHub](https://github.com/nhungnt7)
+📧 nguyennhung0799@gmail.com | nhung.thinguyen@monash.edu | 🌐 [Personal Website](https://nhungnt7.github.io/) | 💻 [GitHub](https://github.com/nhungnt7)
 
 ## 🎓 Education
 
