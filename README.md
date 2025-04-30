@@ -62,7 +62,7 @@ PhD in Data Science & AI (upcoming)
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Python, SQL
-- **Libraries & Frameworks**: PyTorch, Rasa, FastAPI, ...
+- **Libraries & Frameworks**: PyTorch, Rasa, FastAPI, LangGraph, ...
 - **AI & ML Technologies**: LLMs, RAG, Embedding Models, Text2SQL, LLMs Finetuning and Alignment, Reinforcement Learning
 - **Databases & Search**: MongoDB, SQLite, Elasticsearch, Qdrant, Hybrid Search
 - **Cloud Technologies**: AWS, Azure
