@@ -5,8 +5,7 @@
 ## 🎓 Education
 
 *Monash University*  
-*Starting May 2025*  
-PhD in Data Science & AI (upcoming)
+*Starting May 2025*
 
 ## 💼 Experience
 
