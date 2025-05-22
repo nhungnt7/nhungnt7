@@ -15,7 +15,7 @@ PhD in Data Science & AI (upcoming)
 *January 2025 - May 2025*  
 
 - Built top-ranked Vietnamese LLMs ([VMLU](https://vmlu.ai/leaderboard) #1 as of March 25, 2025; government-organized national top 5)
-- Built local LLMs, automated data generation and evaluation tools, and domain experts (Accounting, Finance Analysis)
+- Built automated data generation and evaluation tools, local LLMs and domain experts (Accounting, Finance Analysis)
 - Focus:  LLM fine-tuning and alignment, safety alignment, RAG, agent and multi-agent chatbots.
 
 ### 🧠 AI Engineer
