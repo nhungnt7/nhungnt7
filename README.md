@@ -36,7 +36,7 @@ May 2025 – Present
 ## 📝 Publications
 
 - **Planning for Success: Exploring LLM Long-term Planning Capabilities in Table Understanding**  
-  ***Thi-Nhung Nguyen**, Hoang Ngo, Dinh Phung, Thuy-Trang Vu, Dat Quoc Nguyen
+  **Thi-Nhung Nguyen**, Hoang Ngo, Dinh Phung, Thuy-Trang Vu, Dat Quoc Nguyen
   The SIGNLL Conference on Computational Natural Language Learning (CoNLL 2025)
 
 - **BKEE: Pioneering Event Extraction in the Vietnamese Language**  
