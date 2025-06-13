@@ -5,7 +5,8 @@
 ## 🎓 Education
 
 *Monash University*  
-*Starting May 2025*
+PhD in Data Science & Artificial Intelligence
+May 2025 – Present
 
 ## 💼 Experience
 
@@ -33,9 +34,9 @@
 
 ## 📝 Publications
 
-- **SharpSeq: Empowering Continual Event Detection through Sharpness-Aware Sequential-task Learning**  
-  *Thanh-Thien Le*, Viet Dao*, Linh Văn Nguyen*, **Thi-Nhung Nguyen**, Linh Van Ngo, Thien Huu Nguyen*  
-  2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)
+- **Planning for Success: Exploring LLM Long-term Planning Capabilities in Table Understanding**  
+  ***Thi-Nhung Nguyen**, Hoang Ngo, Dinh Phung, Thuy-Trang Vu, Dat Quoc Nguyen
+  The SIGNLL Conference on Computational Natural Language Learning
 
 - **BKEE: Pioneering Event Extraction in the Vietnamese Language**  
   ***Thi-Nhung Nguyen**, Bang Tran, Trong-Nghia Luu, Kiem-Hieu Nguyen and Thien Huu Nguyen*  
